@@ -1,0 +1,2 @@
+import os
+DISCORD_TOKEN = os.getenv('MTI3NzE5MzM5MjA3MzQ3NDE2MQ.G-U60K.CKtVTGtJNrPjeM1-mdlVZiaqv0INqzhLwRikwY')
